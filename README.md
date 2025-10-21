@@ -1,12 +1,12 @@
 # Good | know
-Most Window Keyboads shortcuts work on the Mac |o, only the Keys and their behavior are slighty switched
+Most Window shortcuts are working on the MacOS, only the Keys and their behavior are slighty switched
 | Windows Shortcut | Mac Shortcut|
 |------|----|
 |CTRL + c | CMD +c |
 |CTRL + r| CMD +r|
 
 Otherwise:
-If you do not want to change your behavior, so ctrl+c stays ctrl+c, map your keyboard like this:
+If you do not want memories the new behavior, so CTRL + c stays CTRL + c, map your Keyassignments like this:
 
 :warning: not EVERY Shortcut will be the same, e.g. instead of ALT+TAB it will be than CTRL+TAB
 
