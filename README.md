@@ -5,6 +5,11 @@ Most Window shortcuts are working on the MacOS, only the Keys and their behavior
 |CTRL + c | CMD +c |
 |CTRL + r| CMD +r|
 
+Here is the path for the Keyassignment **per Keyboard**
+
+` Apple Symbol > Systemeinstellungen > Tastatur > Tastaturkurzbefehler > Sondertasten` in this one:
+![Tastaturbelegung](./pictures/Tastaturbelegung.png "Tastaturbelegung")
+
 Otherwise:
 If you do not want memories the new behavior, so CTRL + c stays CTRL + c, map your Keyassignments like this:
 
@@ -14,10 +19,6 @@ If you do not want memories the new behavior, so CTRL + c stays CTRL + c, map yo
 - Option (Alt) → stays at ALT
 - Command (⌘) → will be zu STRG (^)
 
-Here is the path for the Keyassignment **per Keyboard**
-
-` Apple Symbol > Systemeinstellungen > Tastatur > Tastaturkurzbefehler > Sondertasten` in| this one:
-![Tastaturbelegung](./pictures/Tastaturbelegung.png "Tastaturbelegung")
 
 
 # Keys on Apple Keyboard
