@@ -1,14 +1,22 @@
 # Good | know
-If you have a Windows Keyboard, you can change the Keyassignment **per Keyboard** in 
-
-` Apple Symbol > Systemeinstellungen > Tastatur > Tastaturkurzbefehler > Sondertasten` in| this one:
-![Tastaturbelegung](./pictures/Tastaturbelegung.png "Tastaturbelegung")
-
 Most Window Keyboads shortcuts work on the Mac |o, only the Keys and their behavior are slighty switched
 | Windows Shortcut | Mac Shortcut|
 |------|----|
 |CTRL + c | CMD +c |
 |CTRL + r| CMD +r|
+
+Otherwise:
+If you do not want to change your behavior, so ctrl+c stays ctrl+c, map your keyboard like this:
+
+- Control (Strg) → stay Control
+- Option (Alt) → will be Command (⌘)
+- Command (⌘) → will be zu Option (⌥)
+
+Here is the path for the Keyassignment **per Keyboard**
+
+` Apple Symbol > Systemeinstellungen > Tastatur > Tastaturkurzbefehler > Sondertasten` in| this one:
+![Tastaturbelegung](./pictures/Tastaturbelegung.png "Tastaturbelegung")
+
 
 # Keys on Apple Keyboard
 | Key | Keyboard-Symbol |
