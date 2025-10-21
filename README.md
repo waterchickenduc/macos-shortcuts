@@ -8,9 +8,11 @@ Most Window Keyboads shortcuts work on the Mac |o, only the Keys and their behav
 Otherwise:
 If you do not want to change your behavior, so ctrl+c stays ctrl+c, map your keyboard like this:
 
-- Control (Strg) → stay Control
-- Option (Alt) → will be Command (⌘)
-- Command (⌘) → will be zu Option (⌥)
+:warning: not EVERY Shortcut will be the same, e.g. instead of ALT+TAB it will be than CTRL+TAB
+
+- Control (Strg) → will be Command (⌘)
+- Option (Alt) → stays at ALT
+- Command (⌘) → will be zu STRG (^)
 
 Here is the path for the Keyassignment **per Keyboard**
 
