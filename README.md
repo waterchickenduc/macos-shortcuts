@@ -37,6 +37,8 @@ If you do not want memories the new behavior, so CTRL + c stays CTRL + c, map yo
 | Shortcut        | Result |
 |-----------------|--------|
 | CMD + Space | Spotlight Search |‚
+| CMD + SHIFT + 3 | screenshot complete screen, save | desk|p |
+| CMD + OPTION + SHIFT + 3 | screenshot complete screen, copy | clipboard |
 | CMD + SHIFT + 4 | screenshot selection, save | desk|p |
 | CMD + OPTION + SHIFT + 4 | screenshot selection, copy | clipboard |
 | CMD + H | Hides the front window|
